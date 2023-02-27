@@ -1,4 +1,4 @@
-.lead__title {
+.header__title{
   font-family: 'Inter','Arial', sans-serif;
   font-style: normal;
   font-weight: 900;
@@ -12,8 +12,8 @@
 }
 
 @media (max-width:767px) {
-  .lead__title {
-    font-size: 40px;
-    line-height: 44px;
+  .header__title {
+    font-size: 30px;
+    line-height: 30px;
   }
 }

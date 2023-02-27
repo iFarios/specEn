@@ -7,3 +7,14 @@
   margin-top: 50px;
   justify-content: space-around;
 }
+
+@media (max-width:650px) {
+  .footer__offis {
+    grid-template-columns: auto;
+    grid-template-areas: 
+    "footer__contact-subtitle"
+    "footer__contact-subtitle"
+    "footer__contact-subtitle"
+    "footer__contact-subtitle";
+  }
+}
