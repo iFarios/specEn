@@ -1,0 +1,8 @@
+.footer__contact {
+  display: grid;
+  grid-template-columns: 70px 200px;
+  grid-template-areas: 
+  "footer__contact-img footer__contact-title"
+  "footer__contact-img footer__contact-subtitle";
+  column-gap: 16px;
+}
