@@ -1,0 +1,10 @@
+.product__title {
+  font-family: 'Inter','Arial', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 40px;
+  display: flex;
+  justify-content:center;
+  
+}
