@@ -1,3 +1,5 @@
 .footer__contact-subtitle {
   grid-area: footer__contact-subtitle;
+  display: flex;
+  align-items: center;
 }

@@ -1,0 +1,9 @@
+.footer__offis {
+  display: grid;
+  grid-template-columns: 200px 200px;
+  grid-template-areas: 
+  "footer__contact-subtitle footer__contact-subtitle"
+  "footer__contact-subtitle footer__contact-subtitle";
+  margin-top: 50px;
+  justify-content: space-around;
+}
